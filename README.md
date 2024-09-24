@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cristianyanpiar@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/943729863)
 
-Soy Ingeniero de Sistemas graduado de la Universidad Nacional Mayor de San Marcos, con conocimiento en Data Engineering, Data Analytics, RPA en proceso de especializacion en Data Science.
+Soy Ingeniero de Sistemas graduado de la Universidad Nacional Mayor de San Marcos, con experiencia en Data Engineering,ademas de contar con una especializacion en Data Science.
 
 ## 💻 Tech Stack 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
