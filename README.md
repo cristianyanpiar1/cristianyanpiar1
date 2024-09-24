@@ -1,5 +1,5 @@
 # Hola, mi nombre es Cristian Suazo <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNhcnFvMTMxazRlZXh6bzcxemttd2g2OW1mbHdxcWZibGEycGhpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gDH0pb1x7t9eoFXAnc/giphy.gif" width="150"/>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cristian-suazo-apolinario)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cristian-suazo-apolinario/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cristianyanpiar@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/943729863)
 
